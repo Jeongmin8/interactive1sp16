@@ -1,0 +1,30 @@
+body {
+		font-family: garamond;
+		background-color: pink;
+		
+}
+
+h1 {
+	color: red;
+	font-weight: bold;
+	font-family: 'Lobster', cursive;
+	font-size:80px;
+	text-align: center;
+	line-height: 1.5em;
+}
+
+p {
+	font-family: garamond;
+	font-size: 19px;
+}
+
+h5{
+	text-align: center;
+}
+
+ul{
+	color: blue;
+	font-weight: bold;
+}
+
+

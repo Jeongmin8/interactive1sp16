@@ -1,0 +1,51 @@
+body{
+	background-color: orange;
+}
+#container{
+	width: 600px;
+	height:800px;
+	background-color: green;
+	font-size: 26px;
+	font-family: helvetica;
+	text-align: center;
+	margin: auto;
+}
+
+
+#hahaha{
+	width: 200px;
+	height:200px;
+	background-color: purple;
+	font-size: 26px;
+	font-family: helvetica;
+	text-align: center;
+	float: left;
+}
+
+#smile{
+	width:200px;
+	height:200px;
+	background-color: red;
+	color: white;
+	text-align: center;
+	float: left;
+}
+
+#circle{
+	width:200px;
+	height:200px;
+	background-color: yellow;
+	float: left;
+}
+/*
+.sidebar{
+	width:350px;
+	height:100px;
+	background-color: green;
+	font-size: 15px;
+	color: white;
+	padding: 10px;
+	border:20px dotted #568301;
+	margin:10px 1px 10px auto;
+}
+
