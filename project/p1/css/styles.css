@@ -1,0 +1,22 @@
+body {
+		font-family: garamond;
+		background-color: pink;
+		
+}
+
+h1 {
+	font-family: 'Lobster', cursive;
+	font-size:70px;
+	line-height: 1.5em;
+}
+
+p {
+	font-size: 15px;
+}
+
+h3{
+	color: red;
+	line-height: 3em;
+}
+
+
