@@ -1,22 +1,118 @@
 body {
-		font-family: garamond;
-		background-color: pink;
-		
+	background-color: pink;
+
+}
+p{
+	font-family: garamond;
+	font-size: 18px;
 }
 
-h1 {
-	font-family: 'Lobster', cursive;
-	font-size:70px;
-	line-height: 1.5em;
+.one { 
+	position: fixed;
+	margin-left: 1000px;
+	margin-top: 150px;
+
 }
 
-p {
-	font-size: 15px;
+p.one {
+	float: right;
+	border: 5px solid black;
+	padding: 20px;
+	width: 275px;
+	height: 50px;
+	border-radius: 10px;
+	background-color: white;
+	text-align: center;
+	font-size: 15px ;
 }
 
-h3{
+p.diary {
+	font-size: 150px;
+	margin: 30px 10px auto 25px;
+	font-family: helvetica;
+}
+
+#container {
+	width: 900px;
+	margin-left: 30px;
+}
+
+#interview {
+	height: 2px;
+	width: 900px;	
+}
+
+p.two {
 	color: red;
-	line-height: 3em;
+	text-align: left;
+	font-size: 18px;
+	font-family: garamond;
+	line-height: 100px;
+	padding-left: 5px;
 }
+
+
+#three {
+	height: 200px;
+	width:900px;
+	
+	
+}
+p.headline {
+	text-align: left;
+	font-family: 'Lobster', cursive;
+	font-size: 73px;
+
+	
+}
+
+
+#paragraph{
+	width: 900px;
+	height:6100px;
+	text-align: left;
+	margin-top: 700px;
+	
+
+}
+h3 {
+	font-color: red;
+}
+#paragraph2{
+	width: 900px;
+	height:6200px;
+	text-align: left;
+
+}
+#four{
+	height: 500px;
+	width:1000px;
+	
+}
+p.second{
+	padding-top: 300px;
+	text-align: left;
+	font-family: 'Lobster', cursive;
+	font-size: 73px;
+
+}
+#paragraph3{
+	width: 900px;
+	height:6350px;
+	text-align: left;
+
+}
+#five{
+	padding: 3px;
+	width: 900px;
+}
+p.jennifer{
+	text-align: left;
+	font-family: 'Lobster', cursive;
+	font-size: 73px;
+
+}
+
+
 
 
