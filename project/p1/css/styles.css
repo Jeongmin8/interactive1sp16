@@ -4,115 +4,140 @@ body {
 }
 p{
 	font-family: garamond;
-	font-size: 18px;
+	font-size: 15px;
 }
-
-.one { 
+#next { 
+	float: right;
+	border: 5px solid pink;
 	position: fixed;
-	margin-left: 1000px;
-	margin-top: 150px;
-
+	margin-left: 1013px;
+	margin-top: 153px;
+	border-radius: 16px;
+	background-color: white;
+	width: 220px;
+	height: 350px;
 }
 
 p.one {
-	float: right;
-	border: 5px solid black;
-	padding: 20px;
-	width: 275px;
-	height: 50px;
-	border-radius: 10px;
-	background-color: white;
+	padding-top: 15px;
 	text-align: center;
 	font-size: 15px ;
+	letter-spacing: 2.5px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 16px;
+
+}
+
+ul{
+	margin-top: 25px;
+	line-height: 30px;
+	padding-left: 45px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 14px;
+	letter-spacing: 1px;
 }
 
 p.diary {
-	font-size: 150px;
-	margin: 30px 10px auto 25px;
-	font-family: helvetica;
+	margin-left: 200px;
+	margin-top: 40px;
+	width: 1000px;
+	font-size: 70px;
+	font-family: 'Amatic SC', cursive;
+	text-align: center;
+	letter-spacing: 2px;
+
 }
 
 #container {
-	width: 900px;
-	margin-left: 30px;
+	border: 5px solid white;
+	background-color: white;
+	padding:30px;
+	width: 755px;
+	border-radius: 10px;
+	margin-left: 185px;
+
 }
 
 #interview {
-	height: 2px;
 	width: 900px;	
+	margin-top: 20px;
 }
 
 p.two {
 	color: red;
 	text-align: left;
-	font-size: 18px;
-	font-family: garamond;
-	line-height: 100px;
-	padding-left: 5px;
+	font-size: 15px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	line-height: 3.5px;
+	padding-left: 2.5px;
+	letter-spacing: 3px;
 }
 
-
 #three {
-	height: 200px;
+	margin-top: 60px;
+	height: 55px;
 	width:900px;
+	line-height: 1.25px;
 	
 	
 }
 p.headline {
 	text-align: left;
-	font-family: 'Lobster', cursive;
-	font-size: 73px;
-
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 35px;
 	
 }
 
+p.dotcom{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 11px;
+	letter-spacing: 1px;
+
+}
+img{
+	border-radius: 5px;
+}
 
 #paragraph{
-	width: 900px;
-	height:6100px;
+	width: 750px;
+	height:5855px;
 	text-align: left;
-	margin-top: 700px;
+	margin-top: 40px;
 	
-
 }
-h3 {
-	font-color: red;
+h2{
+	margin-top: 20px;
+
 }
 #paragraph2{
-	width: 900px;
-	height:6200px;
+	width: 750px;
+	height:2440px;
 	text-align: left;
-
-}
-#four{
-	height: 500px;
-	width:1000px;
+	margin-top: 40px;
 	
 }
+p.big{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	line-height: 20px; 
+}
+p.italic{ 
+	line-height: 20px;
+}
+
+
 p.second{
 	padding-top: 300px;
 	text-align: left;
 	font-family: 'Lobster', cursive;
-	font-size: 73px;
+	font-size: 70px;
 
 }
 #paragraph3{
-	width: 900px;
-	height:6350px;
+	width: 750px;
+	height:1605px;
 	text-align: left;
-
+	margin-top: 40px;
+	font-family: garamond;
 }
-#five{
-	padding: 3px;
-	width: 900px;
-}
-p.jennifer{
-	text-align: left;
-	font-family: 'Lobster', cursive;
-	font-size: 73px;
-
-}
-
-
 
 
