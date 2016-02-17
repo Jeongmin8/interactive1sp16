@@ -1,0 +1,47 @@
+#container {
+	width:800px;
+	height:1800px;  
+
+}
+
+#black{
+	width: 800px;
+	height: 150px;
+	
+
+}
+#red{
+	width:800px;
+	height: 150px;
+	background-color: red;
+}
+
+#middle{
+	float: left;
+	width: 800px;
+	height: 560px;
+	margin-top: 150px;
+
+
+}
+#pink{
+	width: 610px;
+	height: 500px;
+	margin-right: 10px;
+	background-color: pink;
+	float: left;
+}
+#orange{
+	float: left;
+	width: 180px;
+	height: 250px;
+	background-color: orange;
+}
+#blue{
+	float: left;
+	width: 610px;
+	height: 50px;
+	background-color: blue;
+	margin-top: 10px;
+
+}

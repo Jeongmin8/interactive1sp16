@@ -1,0 +1,42 @@
+CSS
+#container {
+	width:805px;
+	height:1200px;  
+
+}
+
+#black{
+	width: 805px;
+	height: 125px;
+	position: absolute;
+
+}
+#red{
+	width:805px;
+	height: 100px;
+	background-color: red;
+}
+#green{
+	width: 805px;
+	height: 15px;
+	margin-top: 5px;
+	background-color: blue;
+}
+#middle{
+	float: left;
+	margin-top: 125px;
+	width: 810px;
+	height: 600px;
+}
+#pink{
+	width: 265px;
+	height: 600px;
+	background-color: pink;
+	float: left;
+	margin-right: 5px;
+}
+#last {
+	width: 805px;
+	float: left;
+	margin-top: 5px;
+}

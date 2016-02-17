@@ -1,0 +1,48 @@
+CSS
+#container {
+	width:800px;
+	height:800px;  
+
+}
+
+#two{
+	width: 100px;
+	height: 800px;
+	position: absolute;
+}
+#red{
+	width:100px;
+	height:100px;
+	background: red;
+}
+#white{
+	width: 100px;
+	height: 100px;
+	background-color: white;
+}
+#three{
+	float: left;
+	width: 100px;
+	height: 800px;
+	margin-left: 100px;
+}
+#four{
+	float: left;
+	width:100px;
+	height:800px;
+}
+#five{
+	float:left;
+}
+#six{
+	float:left;
+}
+#seven{
+	float: left;
+}
+#eight{
+	float: left;
+}
+#nine{
+	float: left;
+}
