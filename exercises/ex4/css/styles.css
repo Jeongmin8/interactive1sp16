@@ -1,6 +1,6 @@
 body {
 	font-family: arial;
-	background: #2d2de8;
+	background: #2d2de8; url("hipster.jpg");
 	background: linear-gradient(to right, #2d2de8 25%, #f26739 60%,#f9aafa);
 	
 

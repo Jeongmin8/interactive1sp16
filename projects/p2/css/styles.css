@@ -1,0 +1,393 @@
+body{
+	background-image: url("../../p2/images/forest.jpg");
+	background-size: 100%;
+	background-attachment: fixed;
+	
+
+}
+#container {
+
+	max-width: 1400px;
+	height:5000px;
+	margin-left: 15px;
+	margin-top: 20px;
+
+}
+#tree{
+	width: 100%;
+	height:2100px;
+}
+#tree2{
+	width: 100%;
+	height:1920px;
+}
+#headinging{
+	width:1400px;
+	height: 300px;
+
+	
+
+}
+#cardcollection{
+	width:100px;
+	height: 100px;
+	
+}
+#cardcollection img{
+	max-width: 60%;
+	margin-top: 70px;
+	margin-left: 360px;
+	border-radius: 7%;
+	transform:rotate(35deg);
+}
+#alice{
+	margin-left: 440px;
+	margin-top: -90px;
+	width: 500px;
+	height: 200px;
+	
+}
+#card2{
+	width:90px;
+	height: 90px;
+
+}
+#card2 img{
+	max-width: 60%;
+	margin-top: -30px;
+	margin-left: 300px;
+	border-radius: 7%;
+	transform:rotate(-15deg);
+
+}
+#card5{
+	margin-top: -230px;
+	margin-left: 970px;
+	width: 100px;
+	height: 100px;
+	
+	
+
+}
+#card5 img{
+	max-width: 60%;
+	margin-top: 0px;
+	border-radius: 7%;
+	transform:rotate(-35deg);
+
+}
+#card6{
+
+	width:90px;
+	height: 90px;
+
+}
+#card6 img{
+	max-width: 60%;
+	margin-top: 10px;
+	margin-left: 1040px;
+	border-radius: 7%;
+	transform:rotate(15deg);
+
+
+}
+#card4{
+
+	width:90px;
+	height: 90px;
+	margin-top: -60px;
+
+}
+#card4 img{
+	max-width: 60%;
+	margin-top: -380px;
+	margin-left: 150px;
+	border-radius: 7%;
+	transform:rotate(25deg);
+
+}
+#card7{
+
+	width:90px;
+	height: 90px;
+	margin-top: -96px;
+
+}
+#card7 img{
+	max-width: 60%;
+	margin-top: -1090px;
+	margin-left: 1190px;
+	border-radius: 7%;
+	transform:rotate(-25deg);
+
+}
+#min{
+	width:920px;
+	height: 900px;	
+	margin-left: 310px;
+	z-index: -100;
+}
+#jeong{
+	width: 765px;
+	height: 1520px;
+	background-color: purple;
+	margin-top: 220px;
+
+}
+#jeong2{
+	width: 765px;
+	height: 1220px;
+	background-color: purple;
+	margin-top: 220px;
+
+}
+
+
+#pink{
+	margin-top: -1135px;
+	margin-left: 65px;
+	width:1200px;
+	height: 1000px;
+
+}
+
+#one{
+	width: 270px;
+	height: 270px;
+	background-color: orange;
+	margin-top: 100px;
+	margin-left: 112px;
+	margin-bottom: 10px;
+
+	transform:rotate(-45deg);
+	float: left;
+}
+#one img{
+	max-width: 100%;
+	height:100%;
+}
+
+#power{
+	
+	margin-top: 455px;
+	margin-left: 265px;
+	width: 1015px;
+	height: 200px;
+
+}
+#poppower{
+	width: 272px;
+	height: 272px;
+	background-color: purple;
+	margin-top: -90px;
+	margin-left: 105px;
+	margin-bottom: 10px;
+
+	
+	transform:rotate(-45deg);
+	float: left;
+}
+
+
+#catsmile{
+	background-color: black;
+	margin-top: 155px;
+	margin-left: -100px;
+	width: 1515px;
+	height: 500px;
+	
+
+
+}
+#catsmile img{
+	margin-left: -300px;
+	margin-top: 80px;
+	width: 70%;
+
+}
+#chu{
+	width: 1515px;
+	height: 200px;
+
+	background-color: black;
+	margin-left: -100px;
+
+}
+#chu img{
+	margin-left: 770px;
+	margin-top: -500px;
+	width: 35%;
+}
+#secondpink{
+	margin-top: -1135px;
+	margin-left: 65px;
+	width:1200px;
+	height: 1000px;
+
+}
+#heart{
+
+	width: 10%;
+	height: 10%;
+
+}
+#cardheart{
+	width: 10%;
+	height: 10%;
+	background-color: yellow;
+}
+#secondtree{
+	width: 1400px;
+	height: 300px;
+
+	margin-top: 330px;
+	
+}
+#traiangle{
+	width: 1180px;
+	height: 200px;
+	background-color: yellow;
+	margin-left: 100px;
+
+}
+#true{
+	width: 0px;
+	height: 0px;
+	border-left: 90px solid transparent;
+	border-right: 90px solid transparent;
+	border-bottom: 90px solid orange;
+	margin-left: 318px;
+	float: left;
+	margin-top: -40px;
+}
+#true2{
+	width: 0px;
+	height: 0px;
+	border-left: 90px solid transparent;
+	border-right: 90px solid transparent;
+	border-bottom: 90px solid orange;
+	margin-left: 220px;
+	float: left;
+	margin-top: -289px;
+
+}
+
+#true4{
+	width: 0px;
+	height: 0px;
+	border-left: 90px solid transparent;
+	border-right: 90px solid transparent;
+	border-bottom: 90px solid orange;
+	margin-left: 128px;
+	float: left;
+	margin-top: -192px;
+}
+#true5{
+	width: 0px;
+	height: 0px;
+	border-left: 90px solid transparent;
+	border-right: 90px solid transparent;
+	border-bottom: 90px solid orange;
+	margin-left: 515px;
+	float: left;
+	margin-top: -192px;
+}
+#true6{
+	width: 0px;
+	height: 0px;
+	border-left: 90px solid transparent;
+	border-right: 90px solid transparent;
+	border-bottom: 90px solid orange;
+	margin-left: 695px;
+	float: left;
+	margin-top: -192px;
+}
+#true7{
+	width: 0px;
+	height: 0px;
+	border-left: 90px solid transparent;
+	border-right: 90px solid transparent;
+	border-bottom: 90px solid orange;
+	margin-left: 605px;
+	float: left;
+	margin-top: -281px;
+}
+#true8{
+	width: 0px;
+	height: 0px;
+	border-left: 90px solid transparent;
+	border-right: 90px solid transparent;
+	border-bottom: 90px solid orange;
+	margin-left: 987px;
+	float: left;
+	margin-top: -288px;
+}
+#true9{
+	width: 0px;
+	height: 0px;
+	border-left: 90px solid transparent;
+	border-right: 90px solid transparent;
+	border-bottom: 90px solid orange;
+	margin-left: 892px;
+	float: left;
+	margin-top: -192px;
+}
+#true10{
+	width: 0px;
+	height: 0px;
+	border-left: 90px solid transparent;
+	border-right: 90px solid transparent;
+	border-bottom: 90px solid orange;
+	margin-left: 1082px;
+	float: left;
+	margin-top: -192px;
+}
+#cardshape{
+	width:1350px;
+	height: 100px;
+	margin-left: 62px;
+	margin-top: -40px;
+}
+#playying{
+	width: 125px;
+	float: left;
+	height: 120%;
+}
+#playing img{
+	max-width: 31%;
+	height: 31%;
+	float: left;
+
+}
+#cardshape2{
+	width:1350px;
+	height: 100px;
+	margin-left: 62px;
+	margin-top: -40px;
+
+}
+#cardshape3{
+	width:1350px;
+	height: 100px;
+	margin-left: 62px;
+	margin-top: -40px;
+}
+
+
+
+
+/*computers/tablets/laptops */
+@media screen and (max-width:2000px){
+	#container{
+		width: 100%;
+	}
+	#left-column {
+		width: 70%;
+	}
+	#right-column{
+		width:30%;
+	}
+	img{
+		width: 100%;
+	}
+}
