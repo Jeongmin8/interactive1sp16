@@ -5,6 +5,22 @@ body{
 	
 
 }
+.intro{
+	margin-left:100px; 
+	margin-top: 200px;
+	width: 300px;
+	font-size: 12px;
+}
+p{
+	color: white;
+
+
+}
+a{
+	font-size: 14px;
+	font-color: white;
+	margin-left: 100px;
+}
 #container {
 
 	max-width: 1400px;
@@ -81,6 +97,7 @@ body{
 	width:90px;
 	height: 90px;
 
+
 }
 #card6 img{
 	max-width: 60%;
@@ -132,13 +149,15 @@ body{
 	height: 1520px;
 	background-color: purple;
 	margin-top: 220px;
+	opacity: 0.4;
 
 }
 #jeong2{
 	width: 765px;
-	height: 1220px;
+	height: 1140px;
 	background-color: purple;
 	margin-top: 220px;
+	opacity: 0.4;
 
 }
 
@@ -161,6 +180,7 @@ body{
 
 	transform:rotate(-45deg);
 	float: left;
+
 }
 #one img{
 	max-width: 100%;
@@ -186,6 +206,7 @@ body{
 	
 	transform:rotate(-45deg);
 	float: left;
+	opacity: 0.4;
 }
 
 
@@ -259,6 +280,7 @@ body{
 	margin-left: 318px;
 	float: left;
 	margin-top: -40px;
+	opacity: 0.6;
 }
 #true2{
 	width: 0px;
@@ -269,6 +291,7 @@ body{
 	margin-left: 220px;
 	float: left;
 	margin-top: -289px;
+	opacity: 0.6;
 
 }
 
@@ -281,6 +304,7 @@ body{
 	margin-left: 128px;
 	float: left;
 	margin-top: -192px;
+	opacity: 0.6;
 }
 #true5{
 	width: 0px;
@@ -291,6 +315,7 @@ body{
 	margin-left: 515px;
 	float: left;
 	margin-top: -192px;
+	opacity: 0.6;
 }
 #true6{
 	width: 0px;
@@ -301,6 +326,7 @@ body{
 	margin-left: 695px;
 	float: left;
 	margin-top: -192px;
+	opacity: 0.6;
 }
 #true7{
 	width: 0px;
@@ -311,6 +337,7 @@ body{
 	margin-left: 605px;
 	float: left;
 	margin-top: -281px;
+	opacity: 0.6;
 }
 #true8{
 	width: 0px;
@@ -321,6 +348,7 @@ body{
 	margin-left: 987px;
 	float: left;
 	margin-top: -288px;
+	opacity: 0.6;
 }
 #true9{
 	width: 0px;
@@ -331,6 +359,7 @@ body{
 	margin-left: 892px;
 	float: left;
 	margin-top: -192px;
+	opacity: 0.6;
 }
 #true10{
 	width: 0px;
@@ -341,6 +370,7 @@ body{
 	margin-left: 1082px;
 	float: left;
 	margin-top: -192px;
+	opacity: 0.6;
 }
 #cardshape{
 	width:1350px;
