@@ -1,7 +1,26 @@
 body{
-	background-color: 
+	background-color: #f2f2f2;
 }
-h1{
+
+.one{
+	margin-top: -10pt;
+	font-size: 15pt;
 	font-family: 'Karla', sans-serif;
-	font-color: red;
+	color: #e60000;
+	margin-left: 20pt;
+	
+}
+.first{
+	font-size: 10pt;
+	margin-left: 20pt;
+	margin-top: 10pt;
+	font-family: 'Karla', sans-serif;
+}
+.two{
+	font-size: 13pt;
+	
+}
+.four{
+	width:600pt;
+	
 }
