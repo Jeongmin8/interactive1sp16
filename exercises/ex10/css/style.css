@@ -1,0 +1,136 @@
+/* This is the animation code. */
+@-webkit-keyframes example {
+   from { transform: scale(2.0); }
+   to   { transform: scale(1.0); }
+}
+
+/* This is the element that we apply the animation to. */
+.colorbox {
+   -webkit-animation-name: example;
+   -webkit-animation-duration: 1s;
+   -webkit-animation-timing-function: ease; /* ease is the default */
+   -webkit-animation-delay: 1s;             /* 0 is the default */
+   -webkit-animation-iteration-count: 10;    /* 1 is the default */
+   -webkit-animation-direction: alternate;  /* normal is the default */
+
+   margin-left: 200px;
+   margin-top: 200px;
+   height: 300px;
+   width: 300px;
+   color: black;
+   font-family: helvetica;
+   background: whie;
+   border-radius: 20%;
+   opacity: 80%;
+   animation-iteration-count: infinite;
+}
+@-webkit-keyframes secondex {
+   from { transform: scale(1.0); }
+   to   { transform: scale(6.0); }
+}
+
+
+/* This is the element that we apply the animation to. */
+.colorbox2 {
+   -webkit-animation-name: secondex;
+   -webkit-animation-duration: 1s;
+   -webkit-animation-timing-function: ease; /* ease is the default */
+   -webkit-animation-delay: 1s;             /* 0 is the default */
+   -webkit-animation-iteration-count: 2;    /* 1 is the default */
+   -webkit-animation-direction: alternate;  /* normal is the default */
+   margin-left: 380px;
+   margin-top: 50px;
+   height: 100px;
+   width: 100px;
+   color: pink;
+   font-size: 20pt;
+   background: white;
+   opacity: 80%;
+   animation-iteration-count: infinite;
+}
+@-webkit-keyframes exam {
+   0%   {background: red; left: 0px; top: 0px;}
+    25%  {background: yellow; left: 200px; top: 0px;}
+    50%  {background: blue; left: 200px; top: 200px;}
+    75%  {background: green; left: 0px; top: 200px;}
+    100% {background: red; left: 0px; top: 0px;}
+}
+.colorbox3 {
+   -webkit-animation-name: exam;
+   -webkit-animation-duration: 1s;
+   -webkit-animation-timing-function: ease; /* ease is the default */
+   -webkit-animation-delay: 1s;             /* 0 is the default */
+     /* 1 is the default */
+   -webkit-animation-direction: alternate;  /* normal is the default */
+   margin-left: 900px;
+   margin-top: 50px;
+   height: 100px;
+   width: 100px;
+   color: black;
+   font-family: sans-serif;
+   font-size: 20pt;
+   background: white;
+   opacity: 80%;
+   animation-iteration-count: infinite;
+}
+.colorbox4 {
+   -webkit-animation-name: example;
+   -webkit-animation-duration: 1s;
+   -webkit-animation-timing-function: ease; /* ease is the default */
+   -webkit-animation-delay: 1s;             /* 0 is the default */
+   -webkit-animation-iteration-count: 2;    /* 1 is the default */
+   -webkit-animation-direction: alternate;  /* normal is the default */
+   margin-left: 800px;
+   margin-top: 50px;
+   height: 100px;
+   width: 100px;
+   font-size: 30px;
+   font-family: Times New Roman;
+   background: white;
+   opacity: 80%;
+   animation-iteration-count: infinite;
+}
+@keyframes slide2 {
+  0% {
+    left: 0;
+    top: 0;
+  }
+  50% {
+    left: 150px;
+    top: 100px;
+  }
+  100% {
+    left: 300px;
+    top: 0;
+  }
+  
+}
+
+.background2 {
+  background: white;
+  border-radius: 30px;
+  height: 300px;
+  position: relative;
+  min-width: 538px;
+  width: 600px;
+}
+
+.background2:hover .dot2 {
+  animation-name: slide2;
+  animation-duration: 2s;
+  animation-timing-function: ease-in-out;
+  animation-delay: .5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+.dot2 {
+  background: white;
+  font-size: 30pt;
+  color: red;
+  border-radius: 50%;
+  height: 50px;
+  position: absolute;
+  width: 50px;
+}
+

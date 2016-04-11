@@ -18,13 +18,13 @@ body {
   margin: 20px;
   transition-property: background;
   transition-duration: 1s;
-  transition-delay: .2s;
-  transition-timing-function: linear;
+  transition-delay: .1s;
+  transition-timing-funct1on: linear;
  
 }
 
 .button:hover {
-  background: #ffcc99;
+  background: #ffffff;
   border-radius: 10px;
 }
 

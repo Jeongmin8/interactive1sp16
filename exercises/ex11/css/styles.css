@@ -1,0 +1,43 @@
+body{
+	background-color: grey;
+}
+#container{
+	width: 1300px;
+	height: 3000px;
+	margin:auto;
+	
+}
+@font-face{
+	font-family: 'Copperplate';
+	src: url("Copperplate.ttc");
+}
+@font-face{
+	font-family: 'AmericanTypewriter';
+	src: url("AmericanTypewriter.ttc");2
+}
+@font-face{
+	font-family: 'Luminari';
+	src: url("Luminari.ttf");
+
+}
+#main{
+	font-family: AmericanTypewriter;
+	font-size: 250px;
+	color:black;
+	text-align: center;
+}
+#main2{
+	margin-top: 100px;
+	font-family: Copperplate;
+	font-size: 100px;
+	color:violet;
+	text-align: center;
+
+}
+#main3{
+	margin-top: 100px;
+	font-family: Luminari;
+	font-size: 250px;
+	color:red;
+	text-align: center;
+}
