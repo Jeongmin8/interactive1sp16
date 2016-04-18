@@ -1,9 +1,13 @@
 body{
 	background-color: #f2f2f2;
 } 
-
+.contain{
+ 
+  width: 1000px;
+  height: 600px;
+}
 .content {
-  position: absolute;
+  
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
@@ -14,6 +18,7 @@ body{
   color:  black;
   height: 160px;
   overflow: hidden;
+  position: fixed;
 }
 
 .visible {
@@ -132,17 +137,11 @@ ul li {
             transform: translateY(-20%);
   }
 }
-.exercise{
-	font-size: 10pt;
-	margin-left: 37%;
-	margin-top: 20%;
-	color: black;
-	
-	
-
-}
-.two{
-	font-family: 'Karla', sans-serif;
-	font-size: 13pt;
-
+.container{
+  width: 100px;
+  height: 100px;
+  
+  margin-left: 300px;
+  font-family: 'Karla'; sans-serif;
+  font-size: 15px;
 }
