@@ -2,11 +2,12 @@ body {
 	background: linear-gradient( black 50%, black);
 	color: #fff;
 	font-family: 'Karla', sans-serif;
-  cursor: url(../../p5/images/ch.png), pointer;
+  cursor: url(images/ch.png), pointer;
 
 }
 
 
+body, a:hover {cursor: url(http://cur.cursors-4u.net/food/foo-7/foo619.cur), progress !important;} /* End http://www.cursors-4u.com */
 
 .container{
   
@@ -15,6 +16,7 @@ body {
 	width: 1400px;
 	height: 805px;
 	float: left;
+  cursor: url(http://cur.cursors-4u.net/food/foo-7/foo619.cur), progress !important;} /* End http://www.cursors-4u.com */
 
 }
 
@@ -84,8 +86,9 @@ div#slider figure {
 	  overflow-y: scroll;
 	  overflow-x: hidden;
 	  float:left;
-	
+	 cursor: url(http://cur.cursors-4u.net/food/foo-7/foo610.cur), progress !important;} /* End http://www.cursors-4u.com */
 }
+
 
 
 h1 {
